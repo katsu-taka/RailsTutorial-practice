@@ -15,5 +15,10 @@
 /log/*.log
 /tmp
 
+# Ignore other unneeded files.
+doc/
+*.swp
+*~
+.project
 db/schema.rb
 .DS_Store
